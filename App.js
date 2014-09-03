@@ -78,4 +78,44 @@ Ext.define('CustomApp', {
     		} );
     		;
     	},
+    	_queryForTestSets : function () {
+
+    		// if loading new iteration, destroy existing grids
+    		if ( this._summaryGrid !== undefined ) {
+    			this._summaryGrid.destroy();
+    			this._Grid.destroy();
+    			this._Grid2.destroy();
+    		}
+
+    		TestSetStore = Ext.create( 'Rally.data.WsapiDataStore', {
+    			model : 'TestSet',
+    			autoLoad : true,
+    			storeId : 'TestSetStorer',
+    			context : {
+    				projectScopeUp : false,
+    				projectScopeDown : true
+    			},
+    			filters : [
+    					{
+    						property : 'Project',
+    						operator : '=',
+    						value : this.getContext().getDataContext().project
+    					}, {
+    						property : 'Iteration.Name',
+    						operator : '=',
+    						value : this.down( '#iterationComboBox' ).getRecord().data.Name
+    					}
+    			],
+    			fetch : [
+    					'FormattedID', 'Name', 'TestCases', 'ObjectID', 'Project'
+    			],
+    			limit : 10000,
+    			listeners : {
+    				load : function ( store, data, success ) {
+    					this._queryForTestResults( store, data )
+    				},
+    				scope : this
+    			}
+    		} );
+    	},
 });
