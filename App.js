@@ -2,8 +2,7 @@
 // I never quite got it to work correctly
 //
 // Add more comments to test push remote
-//
-// 
+
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
