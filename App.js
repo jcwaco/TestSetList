@@ -2,11 +2,9 @@
 //
 //A new comment is added
 //
-
 // I never quite got it to work correctly
 //
 // Add more comments to test push remote
-//
 //
 //
 //
