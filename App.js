@@ -3,7 +3,8 @@
 //
 // Add more comments to test push remote
 //
-// Testing the new GitHub Connector
+//
+//Another change has been made
 //
 //
 Ext.define('CustomApp', {
