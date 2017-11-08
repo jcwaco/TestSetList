@@ -4,9 +4,6 @@
 // Add more comments to test push remote
 //
 //
-//Another change has been made
-//
-//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
