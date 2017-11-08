@@ -3,6 +3,8 @@
 //
 // Add more comments to test push remote
 //
+// Testing the new GitHub Connector
+//
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
