@@ -6,9 +6,7 @@
 //
 // Add more comments to test push remote
 //
-//Gonna Make another change
-//Now
-//
+// A new change
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
