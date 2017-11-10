@@ -6,8 +6,6 @@
 //
 // Add more comments to test push remote
 //
-// Testing with Jenkins
-//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
