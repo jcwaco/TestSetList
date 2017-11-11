@@ -5,8 +5,6 @@
 // I never quite got it to work correctly
 //
 //
-// Time they are a changing
-//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
