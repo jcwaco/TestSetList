@@ -4,8 +4,7 @@
 //
 // I never quite got it to work correctly
 //
-// Adding Comments again
-//
+// Stuff Deleted
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
