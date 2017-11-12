@@ -4,6 +4,8 @@
 //
 // I never quite got it to work correctly
 //
+// some changes to consider
+//
 // Stuff Deleted
 //
 Ext.define('CustomApp', {
