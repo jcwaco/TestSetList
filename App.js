@@ -5,6 +5,8 @@
 // I never quite got it to work correctly
 //
 //
+// Achange has been made
+//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
