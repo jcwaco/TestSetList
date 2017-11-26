@@ -2,11 +2,9 @@
 //
 //A new comment is added
 //
-// I never quite got it to work correctly
+// Verify connector function
+// Prepare to add pull requests
 //
-// some changes to consider
-//
-// Stuff Deleted
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
