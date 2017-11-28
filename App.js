@@ -5,7 +5,6 @@
 // Verify connector function
 // Prepare to add pull requests
 //
-// 11282017 Comment Added
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
