@@ -9,6 +9,8 @@
 // Change, Change, Change.....
 //
 //
+// A change for the better
+// Added by JC
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
