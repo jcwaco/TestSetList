@@ -12,6 +12,8 @@
 // A change for the better
 // Added by JC
 //
+// One more change for the road
+//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
