@@ -5,10 +5,9 @@
 // Verify connector function
 // Prepare to add pull requests
 //
+// A Comment that needs to be made
 // Another Change
 // Change, Change, Change.....
-//
-//06 Feb Change-ling
 //
 // A change for the better
 // Added by JC
