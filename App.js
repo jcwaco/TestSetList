@@ -5,7 +5,6 @@
 // Verify connector function
 // Prepare to add pull requests
 //
-// A Comment that needs to be made
 // Another Change
 // Change, Change, Change.....
 //
