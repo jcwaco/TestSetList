@@ -5,10 +5,11 @@
 // Verify connector function
 // Prepare to add pull requests
 //
+//
+//This a Test of vcs connector 2.0.5
+//
 // A change for the better
 // Added by JC
-//
-//New Changes to create a Change Set
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
