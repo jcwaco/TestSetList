@@ -5,11 +5,11 @@
 // Verify connector function
 // Prepare to add pull requests
 //
-// Another Change
-// Change, Change, Change.....
-//
 // A change for the better
 // Added by JC
+//
+//New Changes to create a Change Set
+//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
