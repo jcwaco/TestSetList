@@ -11,6 +11,8 @@
 // A change for the better
 // Added by JC
 //
+// Tbolin here with a request to accept a code change
+// Thanks!
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
