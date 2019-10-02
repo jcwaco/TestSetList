@@ -1,7 +1,6 @@
 // This App is supposed to find Test Sets and then list the Test Cases within them
 //
 //
-//
 //A new comment is added
 //
 // Verify connector function
