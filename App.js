@@ -18,8 +18,6 @@
 //
 // A change that is needed for my PR
 //
-// More change is good - most of the time.
-//
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
