@@ -6,6 +6,8 @@
 // Verify connector function
 // Prepare to add pull requests
 //
+// This is a change for the better
+//
 //
 //This a Test of vcs connector 2.0.5
 // 
