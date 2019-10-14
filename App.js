@@ -16,7 +16,8 @@
 // Test the logistics
 // A change for the better
 // Added by JC
-// TEsting the new Config
+//
+// This change will not effect much
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
