@@ -6,19 +6,16 @@
 // Verify connector function
 // Prepare to add pull requests
 //
+// This is a change for the better
+//
 //
 //This a Test of vcs connector 2.0.5
 // 
 //Creating a change in the code
 //
-//Her we go again
-//
-//
 // Test the logistics
-
 // A change for the better
 // Added by JC
-//
 // TEsting the new Config
 //
 Ext.define('CustomApp', {
