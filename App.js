@@ -18,7 +18,8 @@
 
 // A change for the better
 // Added by JC
-
+//
+// TEsting the new Config
 //
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
