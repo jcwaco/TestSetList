@@ -18,9 +18,6 @@
 // Added by JC
 // TEsting the new Config
 //
-//this is a test of the new cofig
-//
-//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
