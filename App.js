@@ -17,8 +17,6 @@
 // A change for the better
 // Added by JC
 //
-// This change will not effect much
-//
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
