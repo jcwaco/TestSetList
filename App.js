@@ -12,7 +12,8 @@ Ext.define('CustomApp', {
     items:{ html:'<a href="https://help.rallydev.com/apps/2.0rc3/doc/">App SDK 2.0rc3 Docs</a>'},
     launch: function() {
     		var deStore;
-
+// Adding a comment to this file - JC
+//
     		var panel1 = Ext.create( 'Ext.panel.Panel', {
     			layout : {
     				type : 'hbox', // Arrange child items vertically
