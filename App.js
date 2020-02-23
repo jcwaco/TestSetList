@@ -87,6 +87,8 @@ Ext.define('CustomApp', {
     			]
     		} );
 
+        // Some explanatory text for a change
+        //
     		this.add( panel2 );
     		this._testSummary = [];
     		this._testResultList = [];
