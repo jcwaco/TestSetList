@@ -6,28 +6,33 @@
 // Verify connector function
 // Prepare to add pull requests
 //
+// This is a change for the better
+//
 //
 //This a Test of vcs connector 2.0.5
 // 
 //Creating a change in the code
 //
 // Test the logistics
-
 // A change for the better
 // Added by JC
 //
+
 // A change that is needed for my PR
 //
 //
 // Times they are a changing
 //
+=======
+
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
     items:{ html:'<a href="https://help.rallydev.com/apps/2.0rc3/doc/">App SDK 2.0rc3 Docs</a>'},
     launch: function() {
     		var deStore;
-
+// Adding a comment to this file - JC
+//
     		var panel1 = Ext.create( 'Ext.panel.Panel', {
     			layout : {
     				type : 'hbox', // Arrange child items vertically
