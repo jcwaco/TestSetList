@@ -33,6 +33,8 @@ Ext.define('CustomApp', {
     		var deStore;
 // Adding a comment to this file - JC
 //
+// Changes, Changes, more changes
+//
     		var panel1 = Ext.create( 'Ext.panel.Panel', {
     			layout : {
     				type : 'hbox', // Arrange child items vertically
