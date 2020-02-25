@@ -18,11 +18,7 @@
 // Added by JC
 //
 
-// A change that is needed for my PR
-//
-//
-// Times they are a changing
-//
+
 =======
 
 Ext.define('CustomApp', {
