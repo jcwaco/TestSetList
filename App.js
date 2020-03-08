@@ -18,8 +18,8 @@
 // Added by JC
 //
 
-// Some Overdue changes
-// that need to be made
+// Some more changes coming
+// should be exciting!
 //
 =======
 
