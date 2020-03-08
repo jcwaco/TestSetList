@@ -18,10 +18,8 @@
 // Added by JC
 //
 
-// A change that is needed for my PR
-//
-//
-// Times they are a changing
+// Some Overdue changes
+// that need to be made
 //
 =======
 
