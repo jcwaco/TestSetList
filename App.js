@@ -18,9 +18,12 @@
 // Added by JC
 //
 
+
 // Some more changes coming
 // should be exciting!
 //
+=======
+
 =======
 
 Ext.define('CustomApp', {
@@ -30,6 +33,8 @@ Ext.define('CustomApp', {
     launch: function() {
     		var deStore;
 // Adding a comment to this file - JC
+//
+// Changes, Changes, more changes
 //
     		var panel1 = Ext.create( 'Ext.panel.Panel', {
     			layout : {
@@ -85,6 +90,8 @@ Ext.define('CustomApp', {
     			]
     		} );
 
+        // Some explanatory text for a change
+        //
     		this.add( panel2 );
     		this._testSummary = [];
     		this._testResultList = [];
