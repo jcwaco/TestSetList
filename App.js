@@ -18,8 +18,6 @@
 // Added by JC
 //
 
-// This change is needed
-// update applied.
 =======
 
 =======
