@@ -18,10 +18,8 @@
 // Added by JC
 //
 
+// Adding a change to this item
 
-// Some more changes coming
-// should be exciting!
-//
 =======
 
 =======
