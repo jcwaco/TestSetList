@@ -1,27 +1,11 @@
 // This App is supposed to find Test Sets and then list the Test Cases within them
 //
-//
 //A new comment is added
 //
 // Verify connector function
 // Prepare to add pull requests
 //
-// This is a change for the better
 //
-//
-//This a Test of vcs connector 2.0.5
-// 
-//Creating a change in the code
-//
-// Test the logistics
-// A change for the better
-// Added by JC
-//
-
-=======
-
-=======
-
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',
@@ -29,8 +13,6 @@ Ext.define('CustomApp', {
     launch: function() {
     		var deStore;
 // Adding a comment to this file - JC
-//
-// Changes, Changes, more changes
 //
     		var panel1 = Ext.create( 'Ext.panel.Panel', {
     			layout : {
@@ -86,8 +68,6 @@ Ext.define('CustomApp', {
     			]
     		} );
 
-        // Some explanatory text for a change
-        //
     		this.add( panel2 );
     		this._testSummary = [];
     		this._testResultList = [];
